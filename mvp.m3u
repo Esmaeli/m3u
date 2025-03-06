@@ -3,6 +3,8 @@
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0E:1F:E1&stream=46974&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/irib1.png" group-title="İR : PERSİAN",(IR) Irib TV 1
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0E:1F:E1&stream=46861&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/irib1.png" group-title="İR : PERSİAN",(IR) Irib Varzesh
+http://dmtn.tv:8080/play/live.php?mac=00:1a:79:76:38:7e&stream=410321&extension=ts&play_token=XTcxpyh1yZ
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/irib2.png" group-title="İR : PERSİAN",(IR) Irib TV 2
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0E:1F:E1&stream=46862&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/irib3.png" group-title="İR : PERSİAN",(IR) Irib TV 3
